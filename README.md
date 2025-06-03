@@ -1,5 +1,9 @@
 # CustomHooksReact
 
+### Autor
+
+**Octavio Noval** – [@OctavioDNoval](https://github.com/OctavioDNoval)
+
 A continuacion dejo un poco de informacion sobre los Hooks personalizados que estan en la carpeta y su uso
 
 ### **- useCounter**
